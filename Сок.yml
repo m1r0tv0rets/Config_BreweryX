@@ -13,7 +13,7 @@
       - Sweet_berries/25
       - Glow_berries/6
       - Sugar/11
-    cookingtime: 6 #Готовка 6 минут
+    cookingtime: 6 #Готовка 6 дней
     distillruns: 4 #Дистиляция 4 минуты
     age: 13 #Выдержка 13 минут в бочке
     color: RED #Цвет напитка красный
